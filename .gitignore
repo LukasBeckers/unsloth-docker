@@ -2,8 +2,6 @@
 .git
 outputs/
 Untitled.ipynb
-<<<<<<< HEAD
 ipynb_checkpoints/
-=======
->>>>>>> mem_red
 .ipynb_checkpoints/
+.github/
